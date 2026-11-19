@@ -1,0 +1,19 @@
+{
+  "Categories": [],
+  "Items": [],
+  "Receipts": [],
+  "Issues": [],
+  "Users": [
+    {
+      "Id": "c06e4616-c3a3-4959-a06b-4a9fca67eee2",
+      "Login": "admin",
+      "FullName": "Администратор",
+      "Salt": "f1c61a85a79348b58a4fc6f1e5827938",
+      "PwHash": "EEA10EED1C0AD0B987ECB814EA767898B2F665EC3BD9809268AF640298684E24",
+      "Password": "admin",
+      "IsAdmin": true,
+      "CategoryIds": []
+    }
+  ],
+  "NextAct": 1
+}
