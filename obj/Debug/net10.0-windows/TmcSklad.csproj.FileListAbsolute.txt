@@ -1,0 +1,39 @@
+C:\Users\amirg\OneDrive\Desktop\TmcSklad\bin\Debug\net10.0-windows\TmcSklad.exe
+C:\Users\amirg\OneDrive\Desktop\TmcSklad\bin\Debug\net10.0-windows\TmcSklad.deps.json
+C:\Users\amirg\OneDrive\Desktop\TmcSklad\bin\Debug\net10.0-windows\TmcSklad.runtimeconfig.json
+C:\Users\amirg\OneDrive\Desktop\TmcSklad\bin\Debug\net10.0-windows\TmcSklad.dll
+C:\Users\amirg\OneDrive\Desktop\TmcSklad\bin\Debug\net10.0-windows\TmcSklad.pdb
+C:\Users\amirg\OneDrive\Desktop\TmcSklad\obj\Debug\net10.0-windows\App.baml
+C:\Users\amirg\OneDrive\Desktop\TmcSklad\obj\Debug\net10.0-windows\App.g.cs
+C:\Users\amirg\OneDrive\Desktop\TmcSklad\obj\Debug\net10.0-windows\TmcSklad_MarkupCompile.cache
+C:\Users\amirg\OneDrive\Desktop\TmcSklad\obj\Debug\net10.0-windows\TmcSklad.g.resources
+C:\Users\amirg\OneDrive\Desktop\TmcSklad\obj\Debug\net10.0-windows\TmcSklad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amirg\OneDrive\Desktop\TmcSklad\obj\Debug\net10.0-windows\TmcSklad.AssemblyInfoInputs.cache
+C:\Users\amirg\OneDrive\Desktop\TmcSklad\obj\Debug\net10.0-windows\TmcSklad.AssemblyInfo.cs
+C:\Users\amirg\OneDrive\Desktop\TmcSklad\obj\Debug\net10.0-windows\TmcSklad.csproj.CoreCompileInputs.cache
+C:\Users\amirg\OneDrive\Desktop\TmcSklad\obj\Debug\net10.0-windows\TmcSklad.dll
+C:\Users\amirg\OneDrive\Desktop\TmcSklad\obj\Debug\net10.0-windows\refint\TmcSklad.dll
+C:\Users\amirg\OneDrive\Desktop\TmcSklad\obj\Debug\net10.0-windows\TmcSklad.pdb
+C:\Users\amirg\OneDrive\Desktop\TmcSklad\obj\Debug\net10.0-windows\TmcSklad.genruntimeconfig.cache
+C:\Users\amirg\OneDrive\Desktop\TmcSklad\obj\Debug\net10.0-windows\ref\TmcSklad.dll
+C:\Users\Дмитрий\OneDrive\Desktop\Новая папка (24)\TmcSklad-main\obj\Debug\net10.0-windows\App.baml
+C:\Users\Дмитрий\OneDrive\Desktop\Новая папка (24)\TmcSklad-main\obj\Debug\net10.0-windows\App.g.cs
+C:\Users\Дмитрий\OneDrive\Desktop\Новая папка (24)\TmcSklad-main\obj\Debug\net10.0-windows\TmcSklad_MarkupCompile.cache
+C:\Users\Дмитрий\OneDrive\Desktop\Новая папка (24)\TmcSklad-main\obj\Debug\net10.0-windows\TmcSklad.g.resources
+C:\Users\Дмитрий\OneDrive\Desktop\Новая папка (24)\TmcSklad-main\obj\Debug\net10.0-windows\TmcSklad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Дмитрий\OneDrive\Desktop\Новая папка (24)\TmcSklad-main\obj\Debug\net10.0-windows\TmcSklad.AssemblyInfoInputs.cache
+C:\Users\Дмитрий\OneDrive\Desktop\Новая папка (24)\TmcSklad-main\obj\Debug\net10.0-windows\TmcSklad.AssemblyInfo.cs
+C:\Users\Дмитрий\OneDrive\Desktop\Новая папка (24)\TmcSklad-main\obj\Debug\net10.0-windows\TmcSklad.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\OneDrive\Desktop\Новая папка (24)\TmcSklad-main\obj\Debug\net10.0-windows\TmcSklad.sourcelink.json
+C:\Users\Дмитрий\OneDrive\Desktop\Новая папка (24)\TmcSklad-main\obj\Debug\net10.0-windows\TmcSklad.dll
+C:\Users\Дмитрий\OneDrive\Desktop\Новая папка (24)\TmcSklad-main\obj\Debug\net10.0-windows\refint\TmcSklad.dll
+C:\Users\Дмитрий\OneDrive\Desktop\Новая папка (24)\TmcSklad-main\obj\Debug\net10.0-windows\TmcSklad.pdb
+C:\Users\Дмитрий\OneDrive\Desktop\Новая папка (24)\TmcSklad-main\bin\Debug\net10.0-windows\TmcSklad.exe
+C:\Users\Дмитрий\OneDrive\Desktop\Новая папка (24)\TmcSklad-main\bin\Debug\net10.0-windows\TmcSklad.deps.json
+C:\Users\Дмитрий\OneDrive\Desktop\Новая папка (24)\TmcSklad-main\bin\Debug\net10.0-windows\TmcSklad.runtimeconfig.json
+C:\Users\Дмитрий\OneDrive\Desktop\Новая папка (24)\TmcSklad-main\bin\Debug\net10.0-windows\TmcSklad.runtimeconfig.dev.json
+C:\Users\Дмитрий\OneDrive\Desktop\Новая папка (24)\TmcSklad-main\bin\Debug\net10.0-windows\TmcSklad.dll
+C:\Users\Дмитрий\OneDrive\Desktop\Новая папка (24)\TmcSklad-main\bin\Debug\net10.0-windows\TmcSklad.pdb
+C:\Users\Дмитрий\OneDrive\Desktop\Новая папка (24)\TmcSklad-main\obj\Debug\net10.0-windows\TmcSklad.genruntimeconfig.cache
+C:\Users\Дмитрий\OneDrive\Desktop\Новая папка (24)\TmcSklad-main\obj\Debug\net10.0-windows\ref\TmcSklad.dll
+C:\Users\Дмитрий\OneDrive\Desktop\Новая папка (24)\TmcSklad-main\obj\Debug\net10.0-windows\TmcSklad.csproj.Up2Date
